@@ -17,3 +17,6 @@ The while loop is plot for its performance using tic toc, as lower tol values in
 
 A modification to the for loop was also made.
 The modification allows you to watch the points being plotted in real time using VideoWriter. 
+
+
+Each function has an accompanying script file which can run the code and plot the respective graph. 
