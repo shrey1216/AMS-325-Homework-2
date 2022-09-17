@@ -1,6 +1,8 @@
 # AMS-325-Homework-2
 AMS 325 Homework 2
 
+Shreyan Wankavala Estimating Pi Mini-Project:
+
 The files included serve to estimate the value of pi using the Monte Carlo method, but by using for loops and while loops. 
 
 The first method uses a for loop which continues until the value given as the argument is reached. 
