@@ -1,2 +1,2 @@
-# AMS-325-Homework-2
-AMS 325 Homework 2
+MONTE CARLO-ESTIMATE PI
+All of the changes are in the master branch!
